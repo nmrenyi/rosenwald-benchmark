@@ -105,6 +105,8 @@ Files are named using the pattern `YYYY-NNNN.tsv`:
 
 ### Processing Raw Exports
 
+**The exports/ folder could be found in this [link](https://github.com/nmrenyi/double-triangle-annotation/tree/main/site-ella-annoter/data/exports)**
+
 The `combine_files.py` script processes raw annotation exports from the double-triangle annotation framework:
 
 ```bash
