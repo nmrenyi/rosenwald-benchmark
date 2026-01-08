@@ -1,6 +1,6 @@
 # Rosenwald Benchmark
 
-This repository provides annotation benchmark data for selected pages of the **Rosenwald Guide** (*Guide Rosenwald*), a historical French medical directory from the late 19th and early 20th centuries. The benchmark was created using the [Double Triangular Annotation Framework](https://github.com/nmrenyi/double-triangle-annotation).
+This repository provides annotation benchmark data for selected pages of the [**Rosenwald Guide**](https://gallica.bnf.fr/ark:/12148/cb344120051/date) (*Guide Rosenwald*), a historical French medical directory from the late 19th and early 20th centuries. The benchmark was created using the [Double Triangular Annotation Framework](https://github.com/nmrenyi/double-triangle-annotation).
 
 ## Overview
 
