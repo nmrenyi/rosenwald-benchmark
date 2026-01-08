@@ -185,3 +185,8 @@ For questions or feedback about this benchmark:
 **Ren Yi**  
 Email: [renyi1006@gmail.com](mailto:renyi1006@gmail.com)
 
+## More Information
+
+For more detailed information, see the full report:
+
+- Google Drive folder: https://drive.google.com/drive/folders/1p7XqrWZg4O1lyLGvgXd4mwM9ZVFZBUEy
