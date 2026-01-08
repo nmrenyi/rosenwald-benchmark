@@ -155,14 +155,14 @@ all_data <- do.call(rbind, lapply(files, read.delim, sep='\t'))
 
 This benchmark is derived from the **Guide Rosenwald**, a comprehensive medical directory published annually in France during the late 19th and early 20th centuries. The original pages were digitized and annotated using the Double Triangular Annotation Framework.
 
-## Citation
+<!-- ## Citation
 
 If you use this dataset in your research, please cite:
 
 ```bibtex
 @dataset{rosenwald_benchmark,
   title={Rosenwald Benchmark: Historical French Medical Directory Dataset},
-  author={},
+  author={Ren Yi},
   year={2026},
   url={https://github.com/nmrenyi/rosenwald-benchmark},
   note={Derived from Guide Rosenwald (1887-1906)}
@@ -171,10 +171,10 @@ If you use this dataset in your research, please cite:
 
 ## License
 
-[Add license information here]
+[Add license information here] -->
 
 ## Related Resources
 
 - [Double Triangular Annotation Framework](https://github.com/nmrenyi/double-triangle-annotation)
-- Original Rosenwald Guide publications (1887-1906)
+- [Original Rosenwald Guide publications (1887-1906)](https://gallica.bnf.fr/ark:/12148/cb344120051/date)
 
