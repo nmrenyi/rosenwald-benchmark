@@ -178,3 +178,10 @@ If you use this dataset in your research, please cite:
 - [Double Triangular Annotation Framework](https://github.com/nmrenyi/double-triangle-annotation)
 - [Original Rosenwald Guide publications (1887-1906)](https://gallica.bnf.fr/ark:/12148/cb344120051/date)
 
+## Contact
+
+For questions or feedback about this benchmark:
+
+**Ren Yi**  
+Email: [renyi1006@gmail.com](mailto:renyi1006@gmail.com)
+
